@@ -67,13 +67,10 @@ experiences:
       time: 
       company: 
       details: |
-        # Describe your role here 
-        #  - Bullet point
-        #  - Bullet point
-    
+        
 projects:
     title: 
-    intro: >
+    intro: 
     assignments:
       - title: 
         link: "#hook"
