@@ -93,7 +93,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C
+      - name: C/C++
         level: 30%
     
       - name: Python
