@@ -66,11 +66,11 @@ experiences:
       details: |
         
 projects:
-    title: ccc
-    intro: ccc
+    title: PROJECTS
+    intro: 
     assignments:
-      - title: ccc
-        link: "#hook"
+      - title: 
+        link: 
         tagline: 
 
 publications:
@@ -78,10 +78,10 @@ publications:
     intro: |
       
     papers:
-      - title: aaa 
-        link: "#"
-        authors: aaa
-        conference: aaa
+      - title:  
+        link:
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
